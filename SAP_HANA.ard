@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="NEO" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="NOC_INV_LTEST" ExtVersion="22.07.17.01" Contdata="" Partner="NEO" DBType="HANA" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="" AddonSig="">
+        <Installation>
+          <Files />
+        </Installation>
+        <Uninstallation>
+          <Files />
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="C:\Manas\NOC\NOC ADDON\SAP_HANA\SAP_HANA\Out\SAP_HANA.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="HANA.xml">
+              <Actions />
+            </File>
+            <File FileName="Interop.SAPbobsCOM.dll">
+              <Actions />
+            </File>
+            <File FileName="Interop.SAPbouiCOM.dll">
+              <Actions />
+            </File>
+            <File FileName="Microsoft.Office.Interop.Excel.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.exe">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.exe.config">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.pdb">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.xml">
+              <Actions />
+            </File>
+            <File FileName="Images\Inv.bmp">
+              <Actions />
+            </File>
+            <File FileName="SRF\AccountBudget.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\Applicable_Charges.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\ASTM.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\CalibrationProcess.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\Chamber.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\ChamberAllocation.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\Consumer.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\IBudget.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\InventoryTransfer.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\InventoryTransferRequest.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\PostOrderDrgNoGen.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\ProcurementPlanBudget.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\TempMaster.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\TruckOwnerChange.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\TruckRouteChange.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\TSSIPL_MulSel.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\VehicalMaster.srf">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="HANA.xml">
+              <Actions />
+            </File>
+            <File FileName="Interop.SAPbobsCOM.dll">
+              <Actions />
+            </File>
+            <File FileName="Interop.SAPbouiCOM.dll">
+              <Actions />
+            </File>
+            <File FileName="Microsoft.Office.Interop.Excel.dll">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.b1s">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.exe">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.exe.config">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.pdb">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="SAP_HANA.xml">
+              <Actions />
+            </File>
+            <File FileName="Images\Inv.bmp">
+              <Actions />
+            </File>
+            <File FileName="SRF\AccountBudget.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\Applicable_Charges.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\ASTM.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\CalibrationProcess.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\Chamber.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\ChamberAllocation.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\Consumer.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\IBudget.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\InventoryTransfer.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\InventoryTransferRequest.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\PostOrderDrgNoGen.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\ProcurementPlanBudget.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\TempMaster.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\TruckOwnerChange.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\TruckRouteChange.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\TSSIPL_MulSel.srf">
+              <Actions />
+            </File>
+            <File FileName="SRF\VehicalMaster.srf">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>
